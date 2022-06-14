@@ -8,7 +8,7 @@ This is the official repository of [Giada](https://www.giadamusic.com) **langmap
 
 ## How to install a langmap file
 
-Download the zip archive and uncompress it in the langmap folders seen before. Giada will look into those directories on startup. If the files are valid langmap files they will be listed in the Configuration window, *Misc* section. 
+[Download](https://github.com/monocasual/giada-langmaps/archive/refs/heads/main.zip) the zip archive and uncompress it in the langmap folders seen before. Giada will look into those directories on startup. If the files are valid langmap files they will be listed in the Configuration window, *Misc* section. 
 
 ## Contributing to a new translation
 
