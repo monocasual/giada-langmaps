@@ -286,5 +286,7 @@
 	"config_plugins_folder": "Cartella effetti",
 	"config_plugins_scanning": "Scansione in corso ({}%). Attendi...",
 	"config_plugins_scan": "Scansiona ({} trovati)",
-	"config_plugins_invalidPath": "Percorso non valido."
+	"config_plugins_invalidPath": "Percorso non valido.",
+	
+	"channelRouting_title": "Routing Canale"
 }
