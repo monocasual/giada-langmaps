@@ -113,6 +113,7 @@
 	"main_channel_menu_keyboardInput": "Configurar entrada de teclado...",
 	"main_channel_menu_midiInput": "Configurar entrada MIDI...",
 	"main_channel_menu_midiOutput": "Configurar salida MIDI...",
+	"main_channel_menu_editRouting": "Editar routing...",
 	"main_channel_menu_editSample": "Editar muestra...",
 	"main_channel_menu_editActions": "Editar acciones...",
 	"main_channel_menu_clearActions": "Borrar acciones",
