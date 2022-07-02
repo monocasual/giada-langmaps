@@ -113,6 +113,7 @@
 	"main_channel_menu_keyboardInput": "Setup keyboard input...",
 	"main_channel_menu_midiInput": "Setup MIDI input...",
 	"main_channel_menu_midiOutput": "Setup MIDI output...",
+	"main_channel_menu_editRouting": "Edit routing...",
 	"main_channel_menu_editSample": "Edit sample...",
 	"main_channel_menu_editActions": "Edit actions...",
 	"main_channel_menu_clearActions": "Clear actions",
