@@ -286,5 +286,7 @@
 	"config_plugins_folder": "Plug-ins folder",
 	"config_plugins_scanning": "Scan in progress ({}%). Please wait...",
 	"config_plugins_scan": "Scan ({} found)",
-	"config_plugins_invalidPath": "Invalid path."
+	"config_plugins_invalidPath": "Invalid path.",
+	
+	"channelRouting_title": "Channel Routing"
 }
