@@ -282,6 +282,7 @@
 	"config_misc_tooltips_enabled": "Abilitate",
 	"config_misc_language": "File di lingua",
 	"config_misc_noLanguagesFound": "-- nessun file di lingua trovato --",
+	"config_misc_uiScaling": "Dimensione UI",
 	
 	"config_plugins_title": "Effetti",
 	"config_plugins_folder": "Cartella effetti",
