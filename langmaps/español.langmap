@@ -282,6 +282,7 @@
 	"config_misc_tooltips_enabled": "Activado",
 	"config_misc_language": "Archivo de idioma",
 	"config_misc_noLanguagesFound": "-- no se encontraron archivos de idioma --",
+	"config_misc_uiScaling": "UI scaling",
 	
 	"config_plugins_title": "Plug-ins",
 	"config_plugins_folder": "Carpeta de Plug-ins",
