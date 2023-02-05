@@ -72,6 +72,7 @@
 	"main_IO_label_inToOut": "Connettore I/O\n\nTrasferisce l'audio in input al canale output principale, per attivare la modalità \"ascolta quello che stai suonando\".",
 	"main_IO_label_fxOut": "Effetti canale output principale",
 	"main_IO_label_fxIn": "Effetti canale input principale",
+	"main_IO_label_midiActivity": "Attività MIDI I/O master\n\nMostra messaggi MIDI inviati (alto) or ricevuti (basso) globalmente.",
 
 	"main_mainTimer_label_bpm": "Beat al minuto (BPM)",
 	"main_mainTimer_label_meter": "Misure",
