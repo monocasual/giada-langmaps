@@ -72,6 +72,7 @@
 	"main_IO_label_inToOut": "Stream linker\n\nConnects input to output to enable \"hear what you're playing\" mode.",
 	"main_IO_label_fxOut": "Main output plug-ins",
 	"main_IO_label_fxIn": "Main input plug-ins",
+	"main_IO_label_midiActivity": "Master MIDI I/O activity\n\nNotifies MIDI messages sent (top) or received (bottom) globally.",
 
 	"main_mainTimer_label_bpm": "Beats per minute (BPM)",
 	"main_mainTimer_label_meter": "Beats and bars",
