@@ -286,7 +286,7 @@
 	
 	"config_plugins_title": "Plug-ins",
 	"config_plugins_folder": "Carpeta de Plug-ins",
-	"config_plugins_scanning": "Escaneo en marcha ({}%). Por favor espera...",
+	"config_plugins_scanning": "Escaneo en marcha. Por favor espera...",
 	"config_plugins_scan": "Escaneo ({} encontrado)",
 	"config_plugins_invalidPath": "Ruta inválida.",
 	
