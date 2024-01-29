@@ -50,7 +50,7 @@
 	"message_storage_savingProjectError": "Impossible salvare il progetto!",
 	"message_storage_chooseProjectName": "Scegli un nome per il progetto.",
 	"message_storage_chooseFileName": "Scegli un nome per il file.",
-	"message_storage_fileExists": "Il file esise già: sovrascrivi?",
+	"message_storage_fileExists": "Il file esiste già: sovrascrivi?",
 	"message_storage_savingFileError": "Impossibile salvare il file!",
 
 	"main_menu_file": "File",
