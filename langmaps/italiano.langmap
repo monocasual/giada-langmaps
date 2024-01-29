@@ -47,7 +47,7 @@
 	"message_storage_loadingProject": "Caricando il progetto...",
 	"message_storage_loadingSample": "Caricando il file...",
 	"message_storage_savingProject": "Salvando il progetto...",
-	"message_storage_savingProjectError": "Impossible salvare il progetto!",
+	"message_storage_savingProjectError": "Impossibile salvare il progetto!",
 	"message_storage_chooseProjectName": "Scegli un nome per il progetto.",
 	"message_storage_chooseFileName": "Scegli un nome per il file.",
 	"message_storage_fileExists": "Il file esiste già: sovrascrivi?",
