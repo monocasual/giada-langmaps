@@ -3,7 +3,7 @@
 This is the official repository of [Giada](https://www.giadamusic.com) **langmap files**. A langmap is a JSON file containing translation strings used for localization. Langmap files reside in your configuration directory, or more precisely:
 
 * Linux — `/home/[your_user]/.config/giada/langmaps/`;
-* OS X — `/Users/[your_user]/Library/Application Support/Giada/langmaps/`;
+* macOS — `/Users/[your_user]/Library/Application Support/Giada/langmaps/`;
 * Windows — `C:\Users\[your_user]\AppData\Giada\langmaps`.
 
 ## How to install a langmap file
